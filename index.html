@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>India State-District-Tahsils List</title>
+	<meta name="author" content="Aditya S">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	</head>
+	<body>
+	<section class="container mt-5 bg-light pt-5 pb-5 rounded">
+			<div class="row">
+				<h2 class="col-md-12 text-center mb-5">State-District-Tehsils(India)</h2>
+					<form class="mx-auto col-md-8">
+						
+						<div id="selection" class="form-group">
+							<label class="form-label">Select State? <span>*</span></label>
+							<select id="stateSel" name="state" class="form-control" required>
+								<option value="" selected="selected">Select State</option>
+							</select>
+						</div>
+						<div id="selection" class="form-group">
+							<label class="form-label">Select District? <span>*</span></label>
+							<select id='districtSel' class="form-control" name="district" required>
+								<option value="" selected="selected">Select District</option>
+							</select>
+						</div>
+						<div id="selection" class="form-group">
+							<label class="form-label">Select Tehsil? <span>*</span></label>
+							<select id='tehsilSel' name="tehsil" class="form-control" required>
+								<option value="" selected="selected">Select Tehsil</option>
+							</select>
+						</div>
+					</form>
+					<p class="col-md-12 text-center">&copy; 2019 Aditya S.  All Rights Reserved</p>
+			</div>		
+	</section>
+	<script src="state_list.js"></script>
+</body>
+</html>

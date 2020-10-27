@@ -15,5 +15,5 @@ Please do report for any errors present in data provided in plugin.
 -------------------------------------------------------------------------------------------------------------------------
 To use this plugin commercially please contact us!
 Contact Details-
-Email  id: satputeaditya@gmail.com
+Email  id: satputeaditya29@gmail.com
 Or Call us on: (+91) 9623699656
